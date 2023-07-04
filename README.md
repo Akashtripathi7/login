@@ -30,7 +30,7 @@ Once you have forked the project, follow these steps :
 - Responsiveness (ie fitting into different screen size) is the
 highest priority of design, use MediaQuery.of(context).size instead of
 hard coding size or width value.
-- Make Use of ScereenUtil library to provide maximum
+- Make Use of Sizer library to provide maximum
 - Use Row() and Column() wherever possible for designing layout
 - Keep classes with low number of lines break widget into separate
 small widget if the class is too long (this increases maintainability)
