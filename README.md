@@ -54,7 +54,7 @@ be followed :
 ### 
 
 
-### Section 4: Pages folder and “Folder by feature principal”
+### Section 3: Pages folder and “Folder by feature principal”
 
 Pages folder is divided into pages of screen , each page have at least these two property:
 
